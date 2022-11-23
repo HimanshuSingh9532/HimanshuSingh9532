@@ -1,6 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A Passinate & Dedicated Full-Stack Devloper From India.....</h3>
 
+<img align="right" alt="coading" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusingh9532&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusingh9532" /> </p>
 
@@ -22,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusingh9532&show_icons=true&locale=en&layout=compact" alt="himanshusingh9532" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusingh9532&show_icons=true&locale=en" alt="himanshusingh9532" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusingh9532&" alt="himanshusingh9532" /></p>
